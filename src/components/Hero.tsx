@@ -2,7 +2,7 @@ import { Github, Linkedin, Instagram, Mail } from "lucide-react";
 
 const socialLinks = [
   { icon: Github, href: "https://github.com/Soham24608", label: "GitHub" },
-  { icon: Linkedin, href: "https://www.linkedin.com/in/sohambhonge", label: "LinkedIn" },
+  { icon: Linkedin, href: "https://www.linkedin.com/in/sohambhonge?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", label: "LinkedIn" },
   { icon: Instagram, href: "https://www.instagram.com/sohambhonge?igsh=MXVvZWY1a3h3bW1paQ==", label: "Instagram" },
   { icon: Mail, href: "mailto:sohambhonge73@gmail.com", label: "Email" },
 ];
