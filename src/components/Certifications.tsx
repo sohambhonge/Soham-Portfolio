@@ -6,7 +6,7 @@ const certifications = [
   { title: "Data Visualization Associate Internship", file: "https://drive.google.com/file/d/1-7Quy-QGIBY5aUpKZueglOYQTyLwBaKU/view?usp=drivesdk" },
   { title: "Power BI Certificate", file: "https://drive.google.com/file/d/14kAL9ZwEVnFa-4aezvaX0f4nfum7oL7c/view?usp=drivesdk" },
   { title: "Python Certificate", file: "https://drive.google.com/file/d/1d62Wg_7zrDX7LGUw3da3qlJ-tyWvnG0b/view?usp=drivesdk" },
-  { title: "Project Exhibition Certificate", file: "/certificates/Soham_Bhonge_Certificate.pdf" },
+  { title: "Agentic AI Hackathon", file: "https://drive.google.com/file/d/1Oup4g0UAZPXFicL9W3LNMKNvRM5Pap67/view?usp=drivesdk" },
 ];
 
 const Certifications = () => (
