@@ -4,7 +4,7 @@ const experienceData = [
   {
     role: "Data Analyst Intern",
     company: "Excelerate",
-    duration: "2024",
+    duration: "2025",
     description:
       "Worked on real-world data analytics projects involving data cleaning, exploratory data analysis, and dashboard development. Collaborated with cross-functional teams to deliver actionable insights using Python, SQL, and Power BI.",
     highlights: [
