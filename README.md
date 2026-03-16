@@ -39,34 +39,20 @@ Tailwind CSS
 
 shadcn-ui
 
-## 📂 Project Structure
-portfolio-website/
-│
-├── public/              # Static assets
-├── src/
-│   ├── components/      # Reusable UI components
-│   ├── pages/           # Website pages
-│   ├── assets/          # Images and icons
-│   ├── styles/          # Global styles
-│   └── main.tsx         # Application entry point
-│
-├── package.json
-├── vite.config.ts
-└── README.md
 ## ⚙️ Run Locally
 
 To run the project on your local machine:
 
-# Clone the repository
+## Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Navigate to project folder
+## Navigate to project folder
 cd <YOUR_PROJECT_NAME>
 
-# Install dependencies
+## Install dependencies
 npm install
 
-# Start development server
+## Start development server
 npm run dev
 
 The development server will run at:
