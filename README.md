@@ -1,73 +1,87 @@
-# Welcome to your Lovable project
+## 💼 Personal Portfolio Website ##
 
-## Project info
+A modern developer portfolio website designed to showcase my projects, technical skills, and experience in Data Analytics, Data Visualization, and Web Development.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+This portfolio highlights my work in Power BI dashboards, Python data analysis, SQL projects, and web scraping, along with the technologies I use to build data-driven solutions.
 
-## How can I edit this code?
+The website features a clean interface, responsive design, and organized project sections to present my work effectively.
 
-There are several ways of editing your application.
+## 🌐 Live Portfolio
 
-**Use Lovable**
+🔗 Visit My Portfolio:
+https://sohambhonge-portfolio.netlify.app
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🚀 Features
 
-Changes made via Lovable will be committed automatically to this repo.
+Professional About Me section
 
-**Use your preferred IDE**
+Showcase of data analytics and development projects
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Display of technical skills and tools
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Responsive design for desktop and mobile devices
 
-Follow these steps:
+Modern UI components and clean layout
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+Contact section for collaboration and networking
+
+## 🛠️ Tech Stack
+
+This portfolio is built using modern frontend technologies:
+
+React
+
+TypeScript
+
+Vite
+
+Tailwind CSS
+
+shadcn-ui
+
+## 📂 Project Structure
+portfolio-website/
+│
+├── public/              # Static assets
+├── src/
+│   ├── components/      # Reusable UI components
+│   ├── pages/           # Website pages
+│   ├── assets/          # Images and icons
+│   ├── styles/          # Global styles
+│   └── main.tsx         # Application entry point
+│
+├── package.json
+├── vite.config.ts
+└── README.md
+## ⚙️ Run Locally
+
+To run the project on your local machine:
+
+# Clone the repository
 git clone <YOUR_GIT_URL>
 
-# Step 2: Navigate to the project directory.
+# Navigate to project folder
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
-npm i
+# Install dependencies
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Start development server
 npm run dev
-```
 
-**Edit a file directly in GitHub**
+The development server will run at:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+http://localhost:5173
+## 📊 Projects Included
 
-**Use GitHub Codespaces**
+This portfolio includes projects related to:
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Power BI Data Visualization Dashboards
 
-## What technologies are used for this project?
+Python Data Analysis
 
-This project is built with:
+Web Scraping Projects
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+SQL Data Analysis
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Interactive Data Analytics Projects
